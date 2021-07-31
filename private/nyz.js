@@ -8,8 +8,7 @@
   */
 exports.grupmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ GRUP MENU*  
 \`\`\`▢ ${prefix}hidetag 
 ▢ ${prefix}add 
@@ -36,8 +35,7 @@ https://api-alphabot.herokuapp.com
 }
 exports.stickmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ STICK MENU*  
 \`\`\`▢ ${prefix}stickbucin 
 ▢ ${prefix}stickanjing 
@@ -51,8 +49,7 @@ https://api-alphabot.herokuapp.com
 
 exports.promenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ PRO MENU*
 \`\`\`▢ ${prefix}nulis1 
 ▢ ${prefix}nulis2 
@@ -70,8 +67,7 @@ https://api-alphabot.herokuapp.com
 
 exports.downloadmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ DOWNLOAD MENU*
 \`\`\`▢ ${prefix}telesticker 
 ▢ ${prefix}tiktokmusic 
@@ -86,8 +82,7 @@ https://api-alphabot.herokuapp.com
 
 exports.soundmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ SOUND MENU*
 \`\`\`▢ ${prefix}tomp3 
 ▢ ${prefix}sound1 
@@ -119,8 +114,7 @@ https://api-alphabot.herokuapp.com
 
 exports.pornmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ PORN MENU*
 \`\`\`▢ ${prefix}indo1  
 ▢ ${prefix}indo2  
@@ -151,8 +145,7 @@ https://api-alphabot.herokuapp.com
 
 exports.storagemenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ STORAGE MENU*
 \`\`\`▢ ${prefix}readmore 
 ▢ ${prefix}chatlist 
@@ -172,8 +165,7 @@ https://api-alphabot.herokuapp.com
 
 exports.cekmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ CHECK MENU*
 \`\`\`▢ ${prefix}gantengcek 
 ▢ ${prefix}cantikcek 
@@ -198,8 +190,7 @@ https://api-alphabot.herokuapp.com
 
 exports.tagmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ TAG MENU*
 \`\`\`▢ ${prefix}ganteng 
 ▢ ${prefix}cantik 
@@ -227,8 +218,7 @@ https://api-alphabot.herokuapp.com
 
 exports.gamemenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ GAME MENU*
 \`\`\`▢ ${prefix}slot 
 ▢ ${prefix}simi 
@@ -263,8 +253,7 @@ https://api-alphabot.herokuapp.com
 
 exports.randomtext = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ RANDOM TEXT*
 \`\`\`▢ ${prefix}quotes2 
 ▢ ${prefix}grubwa 
@@ -308,8 +297,7 @@ https://api-alphabot.herokuapp.com
 
 exports.fastmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ FAST MENU*
 \`\`\`▢ ${prefix}fb 
 ▢ ${prefix}tts 
@@ -357,8 +345,7 @@ https://api-alphabot.herokuapp.com
 
 exports.sertifikat = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ SERTIFIKAT MENU*
 \`\`\`▢ ${prefix}ffserti  
 ▢ ${prefix}ffserti2 
@@ -379,8 +366,7 @@ https://api-alphabot.herokuapp.com
 
 exports.ownermenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ OWNER MENU*
 \`\`\`▢ ${prefix}dellprem  
 ▢ ${prefix}addprem 
@@ -398,8 +384,7 @@ https://api-alphabot.herokuapp.com
 
 exports.makermenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ MAKER MENU*
 \`\`\`▢ ${prefix}crossgun  
 ▢ ${prefix}bakar 
@@ -416,8 +401,7 @@ https://api-alphabot.herokuapp.com
 
 exports.spesialmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ SPESIAL MENU*
 \`\`\`▢ ${prefix}randomwibu 
 ▢ ${prefix}phkomen 
@@ -546,7 +530,6 @@ exports.allmenu = (auth0r, bulan, tchat, prefix) => {
 ▢ BULAN : ${bulan} 
 ▢ CHAT : ${tchat} 
  
-
 *ALL MENU BOT*
 ▢ ${prefix}hidetag 
 ▢ ${prefix}add 
@@ -929,18 +912,16 @@ exports.allmenu = (auth0r, bulan, tchat, prefix) => {
 *THX TO*  
 ▢ ALL CREATOR BOT 
 ▢ NAYLACHAN 
-▢ RYNZ 
+▢ LEONKUN
 ▢ LOLI KILLERS 
 ▢ ARA-ARA
 ▢ ZEEONE
-
 ━━ ❲ *BOT WHATSAPP* ❳ ━━
 `
 }
 exports.newsmenu = (prefix) => {
 	return`✇ *REST API*
-https://api-alphabot.herokuapp.com
-
+https://lolhuman.herokuapp.com/
 *≡ NEWS MENU*
 ▢ ${prefix}newsdetik 
 ▢ ${prefix}newskompas 
