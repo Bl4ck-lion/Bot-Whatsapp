@@ -4,15 +4,15 @@
 
 /*
   **** INFO SCRIPT ****
-  ** Author : Nayla
-  ** Recode : zeeone
+  ** Author : Leon
+  ** Recode : saya
   ** Don't delete the author's name and my name
   ** For new updates please visit my YouTube Channel ZEEONE OFC
   **
   **** THANKS TO ****
-  ** NAYLA CHAN
+  ** Leon Kun
   ** RYNZ
-  ** ARI
+  ** CA2
   ** ARA•ARA
   ** REST API PROVIDER IN MY BOT  
 */
